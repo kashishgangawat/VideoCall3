@@ -5,7 +5,7 @@ const { CommunicationIdentityClient } = require('@azure/communication-identity')
 const { DefaultAzureCredential } = require("@azure/identity");
 import { AzureLogger } from '@azure/logger';
 const { Howl, Howler } = require('howler');
-const webshot = require('webshot');
+
 // const puppeteer = require('puppeteer');
 // const fs = require("fs");
 //const readline = require('readline');
